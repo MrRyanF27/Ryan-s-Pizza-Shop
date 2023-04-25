@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ryan-s-Pizza-Shop/static/css/main.7325b50f.css",
+    "main.js": "/Ryan-s-Pizza-Shop/static/js/main.e95c6c78.js",
+    "static/js/787.f9ca5b9e.chunk.js": "/Ryan-s-Pizza-Shop/static/js/787.f9ca5b9e.chunk.js",
+    "static/media/pizzaLeft.jpg": "/Ryan-s-Pizza-Shop/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/Ryan-s-Pizza-Shop/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizzaHP.jpeg": "/Ryan-s-Pizza-Shop/static/media/pizzaHP.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/Ryan-s-Pizza-Shop/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/expensive.jpg": "/Ryan-s-Pizza-Shop/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/Ryan-s-Pizza-Shop/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/makingpizza.jpeg": "/Ryan-s-Pizza-Shop/static/media/makingpizza.40dc048984f28babc069.jpeg",
+    "static/media/pineapple.jpg": "/Ryan-s-Pizza-Shop/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/Ryan-s-Pizza-Shop/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/Ryan-s-Pizza-Shop/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "static/media/pizzaLogo3.jpg": "/Ryan-s-Pizza-Shop/static/media/pizzaLogo3.c5f0c650fcb7ba6b0fdd.jpg",
+    "index.html": "/Ryan-s-Pizza-Shop/index.html",
+    "main.7325b50f.css.map": "/Ryan-s-Pizza-Shop/static/css/main.7325b50f.css.map",
+    "main.e95c6c78.js.map": "/Ryan-s-Pizza-Shop/static/js/main.e95c6c78.js.map",
+    "787.f9ca5b9e.chunk.js.map": "/Ryan-s-Pizza-Shop/static/js/787.f9ca5b9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7325b50f.css",
+    "static/js/main.e95c6c78.js"
+  ]
+}
